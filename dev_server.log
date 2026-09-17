@@ -1,0 +1,12 @@
+
+> documentation-platform@1.0.0 dev
+> next dev
+
+▲ Next.js 16.3.4 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.0.2:3000
+✓ Ready in 1520ms
+✓ Running next.config took 41ms
+
+○ Compiling / ...
+ HEAD / 200 in 6.2s (next.js: 5.8s, application-code: 435ms)
